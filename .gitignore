@@ -70,4 +70,4 @@ ehthumbs.db
 [Tt]humbs.db
 
 
-!/Assets/Plugins/**/*.dll
+!*.dll
